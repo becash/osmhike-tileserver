@@ -15,7 +15,7 @@ It is composed of 4 parts:
     -  package phyghtmap_2.23-1_all.deb, downloaded from   http://katze.tfiu.de/projects/phyghtmap/download.html
     -  package pyhgtmap 3.7, got from pip ( pip download -d somedirectory --no-deps pyhgtmap )
 
-  * OSM data for the small "Andorra" "example: 
+  * OSM data for the small "Moldova" "example: 
     <br>They are covered by "Open Data Commons Open Database License" (ODbL)
 
 ----------------------------------------------------------------------------

@@ -39,7 +39,7 @@ chmod -R a+rwX  ~/myproject
 
 Notes: 
 - all docker commands must be executed from sudo
-- this installation contains OSM data for Andorra, to have a small working example
+- this installation contains OSM data for Moldova, to have a small working example
 
 Go to project directory ( where file docker-compose-yml resides )
 
@@ -58,7 +58,7 @@ Build "kosmtik" image ( the tile rendering and web server )
 sudo docker-compose build kosmtik
 ```
 
-## Launching the demo based on Andorra data
+## Launching the demo based on Moldova data
 
 Launch database
 ```
@@ -89,7 +89,7 @@ Launch the tiles web server.  Note: the first time, it may spend many minutes to
 sudo docker-compose up -V kosmtik
 ```
 
-Navigate in the map : open a browser on the below url , and move the map until you see Andorra
+Navigate in the map : open a browser on the below url , and move the map until you see Moldova
 ```
 http://localhost:8888
 ```
